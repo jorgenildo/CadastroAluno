@@ -2,7 +2,7 @@ Cadastro: Aluno
 
 Versao: 001
 
-RA:
-Nome:
-Telefone:
+RA:kkk zoei tudo 
+Nome:preisteixu
+Telefone: 4002 - 8922 - YUDI
 e-mail:

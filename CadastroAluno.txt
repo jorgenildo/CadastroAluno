@@ -2,7 +2,7 @@ Cadastro: Aluno
 
 Versao: 001
 
-RA:
-Nome:
-Telefone:
-e-mail:
+RA: 316103278 
+Nome: kaique
+Telefone: 987379955
+e-mail: kaiquesct@gmail.com
